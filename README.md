@@ -62,7 +62,7 @@ via `python` instead of `python3` if needed).
 
 ## Dashboard
 
-**Dashboard link:** 
+**Dashboard link:** https://adas286-technical1-dashboard-whfuud.streamlit.app/
 
 The dashboard (`dashboard.py`) reads directly from `cell_counts.db` and
 presents:
